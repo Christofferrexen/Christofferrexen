@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Christofferrexen
 - 👀 I’m interested in DevOps, CI/CD, Coding
 - 🌱 I’m currently learning YAML, JavaScript, Python, Azure Pipeline and general automation
-- 💞️ I’m looking to collaborate on the above to get sparing, as I just got into a new position as DevOps consultant and need a lot of sparing
+- 💞️ I’m looking to collaborate on the above to get sparing, as I just got into a new position as DevOps consultant and might need some help
 - 📫 Reach me @ Christofferrexen@gmail.com 
 
 <!---
